@@ -1,0 +1,17 @@
+{
+  "version": "1.0.1",
+  "type": "stable",
+  "summary": "Mise à jour NexaVision 1.0.1",
+  "changelog": [
+    "Overlay Jeu déplaçable librement avec la souris",
+    "Transparence améliorée de l’Overlay Live",
+    "Logos Eclipse, Sakura et Oni pour les thèmes spéciaux",
+    "Meilleure lisibilité des petits textes et messages affichés en jeu",
+    "Ajout du système de notes de mise à jour affichées une seule fois après l’installation"
+  ],
+  "detailsUrl": "https://github.com/nexavision11/NexaVision-Updates/releases/tag/v1.0.1",
+  "download": "https://github.com/nexavision11/NexaVision-Updates/releases/download/v1.0.1/NexaVision-1.0.1.zip",
+  "sizeBytes": 110665454,
+  "sha256": "59F0B521EF60F26147B9B1F69221AFA5978CC24917EDCCD5C03A112FD5ED499B",
+  "publishedAt": "2026-09-23T13:00:00Z"
+}
