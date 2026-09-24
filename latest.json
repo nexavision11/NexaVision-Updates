@@ -1,17 +1,14 @@
 {
-  "version": "1.0.1",
+  "version": "1.1.0.2",
   "type": "stable",
-  "summary": "Mise à jour NexaVision 1.0.1",
+  "summary": "Correctif NexaVision 1.1.0.2",
   "changelog": [
-    "Overlay Jeu déplaçable librement avec la souris",
-    "Transparence améliorée de l’Overlay Live",
-    "Logos Eclipse, Sakura et Oni pour les thèmes spéciaux",
-    "Meilleure lisibilité des petits textes et messages affichés en jeu",
-    "Ajout du système de notes de mise à jour affichées une seule fois après l’installation"
+    "Correction du packaging de NexaVisionHardwareService.exe",
+    "Le composant de monitoring matériel est désormais inclus dans l'installation",
+    "Correction de l'accès aux sondes matérielles après une installation propre"
   ],
-  "detailsUrl": "https://github.com/nexavision11/NexaVision-Updates/releases/tag/v1.0.1",
-  "download": "https://github.com/nexavision11/NexaVision-Updates/releases/download/v1.0.1/NexaVision-1.0.1.zip",
-  "sizeBytes": 110665454,
-  "sha256": "59F0B521EF60F26147B9B1F69221AFA5978CC24917EDCCD5C03A112FD5ED499B",
-  "publishedAt": "2026-09-23T13:00:00Z"
+  "detailsUrl": "https://github.com/nexavision11/NexaVision-Updates/releases/tag/v1.1.0.2",
+  "download": "https://github.com/nexavision11/NexaVision-Updates/releases/download/v1.1.0.2/NexaVision-1.1.0.2.zip",
+  "sizeBytes": 110684558,
+  "sha256": "7AE51FC2013B19576C1D773190CEAABEE52B53A7DBFF911366CB215607FEA0EC"
 }
