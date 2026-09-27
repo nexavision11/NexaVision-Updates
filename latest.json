@@ -1,14 +1,19 @@
 {
-  "version": "1.1.0.2",
+  "version": "1.1.0.3",
   "type": "stable",
-  "summary": "Correctif NexaVision 1.1.0.2",
+  "summary": "Mise à jour NexaVision 1.1.0.3",
   "changelog": [
-    "Correction du packaging de NexaVisionHardwareService.exe",
-    "Le composant de monitoring matériel est désormais inclus dans l'installation",
-    "Correction de l'accès aux sondes matérielles après une installation propre"
+    "Refonte complète du module Nexa Live pour TikTok et Twitch",
+    "Intégration des abonnements Twitch",
+    "Retour du compteur de likes TikTok en direct",
+    "Popups TikTok et Twitch personnalisables : position et taille",
+    "Nouveaux thèmes dédiés au Live et nouveaux smileys",
+    "Amélioration de l'affichage, du floutage et du chat Live",
+    "Ajout de guides pour l'association Twitch et l'accès matériel avancé",
+    "Popup de mise à jour simplifié avec redémarrage automatique de NexaVision"
   ],
-  "detailsUrl": "https://github.com/nexavision11/NexaVision-Updates/releases/tag/v1.1.0.2",
-  "download": "https://github.com/nexavision11/NexaVision-Updates/releases/download/v1.1.0.2/NexaVision-1.1.0.2.zip",
-  "sizeBytes": 110684558,
-  "sha256": "7AE51FC2013B19576C1D773190CEAABEE52B53A7DBFF911366CB215607FEA0EC"
+  "detailsUrl": "https://github.com/nexavision11/NexaVision-Updates/releases/tag/v1.1.0.3",
+  "download": "https://github.com/nexavision11/NexaVision-Updates/releases/download/v1.1.0.3/NexaVision-1.1.0.3.zip",
+  "sizeBytes": 212633087,
+  "sha256": "628F706B489D6D78EFC05EF776647022A60F11E1DF7CD5A3D83580FD2C771C8A"
 }
